@@ -17,3 +17,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="250" height="250"/>
+</div>
+<div align="center">
+  :woman_technologist: Обо мне:
+  Я начинающий фронтэнд разработчик из России.
+  </div>
