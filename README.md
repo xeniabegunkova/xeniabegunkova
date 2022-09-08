@@ -22,6 +22,13 @@
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="250" height="250"/>
 </div>
 <div align="center">
-  :woman_technologist: Обо мне:
-  Я начинающий фронтэнд разработчик из России.
+  <h2> :woman_technologist: Обо мне: </h2>
+  <p> :smiley_cat: Меня зовут Ксения и я начинающий фронтэнд разработчик из России</p>
+  <p> :heart_eyes_cat:  Активно изучаю веб-разработку, осваиваю новые технологии</p>
+  <p> :smile_cat: Создаю проекты, используя БЭМ, ООП, адаптивную верстку, API, JavaScript, React, CSS, HTML </p> 
+  <p> :cat: Имею опыт написания кода в команде </p>
+  <p> :smirk_cat: Хочу научиться писать чистый и читабельный код </p>
+  <p> :love_letter: Связь со мной:   <a href="https://t.me/kseniabeg">
+  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
   </div>
